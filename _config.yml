@@ -9,7 +9,7 @@ carpentry: "swc"
 title: "Software Carpentry Workshop"
 
 # Contact email address.
-email: jdblischak@uchicago.edu
+email: nwknoblauch@gmail.com
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -20,7 +20,7 @@ kind: "workshop"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: <USERNAME>/<PROJECT>
+repository: CreRecombinase/2017-07-24-chicago
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
@@ -30,12 +30,12 @@ swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
-workshop_repo: "https://github.com/swcarpentry/workshop-template"
-workshop_site: "https://swcarpentry.github.io/workshop-template"
+workshop_repo: "https://github.com/CreRecombinase/r-intermediate-altmetrics"
+workshop_site: "https://CreRecombinase.github.io/r-intermediate-altmetrics"
 
 # Surveys.
-pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
-post_survey: "https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id="
+pre_survey: "https://docs.google.com/forms/d/e/1FAIpQLSc72yiQEJP17SzcCxDHDqYRPWQ1B75YWxyW66KYqww5xaq_aA/viewform?usp=send_form"
+post_survey: "https://docs.google.com/forms/d/e/1FAIpQLSc9F8bMT5UIWxBS8YzbWn7XWbaSi-ycCH1snGe8xEPHdiWLyQ/viewform?usp=send_form"
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am)
 start_time: 0
